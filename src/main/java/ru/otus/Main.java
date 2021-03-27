@@ -1,3 +1,5 @@
+package ru.otus;
+
 import com.google.common.collect.Lists;
 
 import java.util.List;
